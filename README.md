@@ -21,7 +21,6 @@ Prodi : D4 Teknik Informatika <br>
 ![image](assets/images/maulana7.JPG)
 
 ## Hasil Kelas Dicoding - "Belajar Membuat Aplikasi Flutter untuk Pemula"
-<br>
 ![image](assets/images/sertifikat_flutter.jpg)
 <br>
 ![image](assets/images/dicoding_lana1.JPG)
