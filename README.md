@@ -1,16 +1,30 @@
-# flutter_uas
+# Flutter-App-CRUD_API_Stisla-Maulana
 
-A new Flutter project.
+NIM   : 2041720132 <br>
+Nama  : Maulana Bintang Irfansyah <br>
+Kelas : TI-3H <br>
+Prodi : D4 Teknik Informatika <br>
 
-## Getting Started
+## Hasil UAS pada Android Emulator
+![image](assets/images/maulana1.JPG)
+<br>
+![image](assets/images/maulana2.JPG)
+<br>
+![image](assets/images/maulana3.JPG)
+<br>
+![image](assets/images/maulana4.JPG)
+<br>
+![image](assets/images/maulana5.JPG)
+<br>
+![image](assets/images/maulana6.JPG)
+<br>
+![image](assets/images/maulana7.JPG)
 
-This project is a starting point for a Flutter application.
+## Hasil Kelas Dicoding - "Belajar Membuat Aplikasi Flutter untuk Pemula"
+<br>
+![image](assets/images/sertifikat_flutter.jpg)
+<br>
+![image](assets/images/dicoding_lana1.JPG)
+<br>
+![image](assets/images/dicoding_lana2.JPG)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
